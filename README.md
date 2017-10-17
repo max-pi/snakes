@@ -1,6 +1,7 @@
-# snakes
+# ERF.io
+# Snake and Blocks Fun
 
-
+Snake and Blocks Fun for iOS and Android are owned by ERF.io Inc.
 
 ERF.io Inc. is the sole owner of the information collected on our site and mobile apps. We will not sell, share, or rent information to others in ways different from what is disclosed in this statement.
 
